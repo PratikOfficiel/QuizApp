@@ -1,0 +1,11 @@
+Quiz questions will be in the form of a array.
+first option of answer array is the correct answer
+
+div #Quiz
+div #questions
+h2 Question 
+ul #answers 
+li .answer
+button answer
+h2 for questions;
+li for answer options;
